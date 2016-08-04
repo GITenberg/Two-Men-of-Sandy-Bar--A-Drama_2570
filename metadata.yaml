@@ -1,0 +1,28 @@
+_repo: Two-Men-of-Sandy-Bar--A-Drama_2570
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Harte, Bret
+    alias: Harte, Francis Bret
+    birthdate: 1836
+    deathdate: 1902
+    gutenberg_agent_id: '593'
+    url: http://www.gutenberg.org/2009/agents/593
+    wikipedia: http://en.wikipedia.org/wiki/Bret_Harte
+description: ''
+gutenberg_issued: '2001-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2570'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'American drama -- 19th century'
+- !lcsh 'California -- History -- 1846-1850 -- Drama'
+- !lcsh 'California -- Gold discoveries -- Drama'
+- GITenberg
+title: 'Two Men of Sandy Bar: A Drama'
+url: http://www.gutenberg.org/ebooks/2570
